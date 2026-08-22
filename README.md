@@ -1,6 +1,6 @@
 # wiggle-grow
 
-A CLI tool for X11 that makes the mouse cursor grow when wiggled, making it easier to locate on large or multiple monitors.
+A CLI tool for X11 that makes the mouse cursor grow when wiggled/shaked, making it easier to locate on large or multiple monitors.
 
 <!-- This should be ./preview/demo.mp4, but it's gitHub we're talking about -->
 https://github.com/user-attachments/assets/a7981315-0d5e-4c98-bcb0-c87e47adc046
